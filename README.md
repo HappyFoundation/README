@@ -7,6 +7,7 @@ As well as open source projects we would like to share with the community.
 
 ## Projects
 Here is a list of all big projects we startet!
+* [HappyHamster](https://github.com/HappyFoundation/HappyHamster)
 
 ## Community Projects
 Here we will add a list of all our independent open source projects we would like to share with the community.
