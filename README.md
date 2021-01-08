@@ -6,7 +6,7 @@ This organization / repository contains a reference to our current and former pr
 As well as open source projects we would like to share with the community.
 
 ## Projects
-Here is a list of all big projects we startet!
+Here is a list of all big projects we started!
 * [HappyHamster](https://github.com/HappyFoundation/HappyHamster)
 * [clubwork](https://github.com/HappyFoundation/clubwork)
 
